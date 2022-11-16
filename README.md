@@ -19,7 +19,7 @@ To create notes for to-do lists, reminders, etc. and save them together for late
 
 ## License
 
-none
+None
 
 ## Tests
 
